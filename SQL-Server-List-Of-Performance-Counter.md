@@ -1,8 +1,6 @@
 # List of performance counters for SQL Server
 
-This can be useful for monitoring with PRTG.
-
-Sensori
+This is a list created by _Alessandro Alpi_ and used in many real PRTG monitoring systems.
 
 SQL Memory
 \Memory\Pages/sec::pages/sec
