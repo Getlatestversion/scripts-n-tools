@@ -87,7 +87,7 @@ This is a list created by _Alessandro Alpi_ and used in many real PRTG monitorin
 
 x:disknumber tempdb
 
-recuperare il numero da Disk Management (gestione disco), Esempio:
+We can get the disk number from Disk Management. Example:
 
 \PhysicalDisk(1 E:)\% Disk Time::%
 
@@ -100,4 +100,5 @@ recuperare il numero da Disk Management (gestione disco), Esempio:
 \PhysicalDisk(1 E:)\Disk Reads/sec::IO/sec
 
 \PhysicalDisk(1 E:)\Disk Writes/sec::IO/sec
+
 \PhysicalDisk(1 E:)\Current Disk Queue Length::n
